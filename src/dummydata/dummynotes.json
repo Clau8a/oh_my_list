@@ -1,0 +1,43 @@
+[
+  {
+    "id":1,
+    "type": 1,
+    "typeName": "Daily Counters",
+    "list": [
+      {
+        "text": "Carbohidratos",
+        "quantity": 4,
+        "completed": 0
+      },
+      {
+        "text": "Leche",
+        "quantity": 1,
+        "completed": 0
+      },
+      {
+        "text": "AOA",
+        "quantity": 7,
+        "completed": 1
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "type": 2,
+    "typeName": "Daily Tasks",
+    "list": [
+      {
+        "text": "Bañarme",
+        "completed": false
+      },
+      {
+        "text": "Pasear perruashis",
+        "completed": false
+      },
+      {
+        "text": "Correr",
+        "completed": true
+      }
+    ]
+  }
+]
